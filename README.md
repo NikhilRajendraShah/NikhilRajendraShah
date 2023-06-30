@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rajendra Shah</h1>
 <h3 align="center">3D Modelling, Game Assets, from India</h3>
 
-- 🌱 I’m currently learning **3D Modelling in Blender, DSA in C/C++ and OOP**
+- 🌱 3D Modelling in Blender, Product Management, Digital Marketing**
 
-- 👯 I’m looking to collaborate on **3D Modelling Projects**
+- 👯 Looking to collaborate on **3D Modelling Projects**
 
 - 💬 Ask me about **3D Modelling & Programming (C, C++, Python)**
 
-- 📫 How to reach me **f20201318@goa.bits-pilani.ac.in**
+- 📫 College Email: **f20201318@goa.bits-pilani.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
